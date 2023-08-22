@@ -20,6 +20,8 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
+      {{notice.DATA}}
+      
       {{comprehensive_horoscope.DATA}}
       
       ---
@@ -30,9 +32,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
-      
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{one_talk.DATA}} 
     `
   },
   {
